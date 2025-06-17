@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #111;
+    text-align: center;
+    padding: 1rem;
+}
+
+header img {
+    max-width: 150px;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    color: gold;
+}
+
+section {
+    padding: 1rem 2rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    background-color: #111;
+    color: #ccc;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
